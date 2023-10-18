@@ -13,6 +13,7 @@ int main()
 
 
     std::cout << "PullRequest branch changed\n";
+    std::cout << "PullRequest branch changed　2\n";
 
 }
 
