@@ -15,7 +15,9 @@ int main()
     std::cout << "PullRequest branch changed\n";
     std::cout << "PullRequest branch changed　2\n";
 
-    std::cout << "マージして\n";
+
+    std::cout << "マージします\n";
+
 
 }
 
