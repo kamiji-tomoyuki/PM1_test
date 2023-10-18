@@ -11,6 +11,10 @@ int main()
 
     std::cout << "やあ\n";
 
+
+    std::cout << "PullRequest branch changed\n";
+    std::cout << "PullRequest branch changed　2\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
