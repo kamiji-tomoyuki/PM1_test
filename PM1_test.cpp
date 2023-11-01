@@ -18,6 +18,8 @@ int main()
 
     std::cout << "マージします\n";
 
+    std::cout << "リクエスト\n";
+
 
 }
 
